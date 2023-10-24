@@ -15,4 +15,18 @@ Als Einstieg Projekt mache ich ein Hangman-Spiel in die Konsole. Dafür informie
 
 - [x] Projektablage in Github erstellen, damit wir es miteinander teilen können.
 - [x] An gleiechen Code mit Robin Mueller arbeiten.
-- [ ] Paar Fragen zum Planen aus IPERKA beantworten.
+- [x] Fragen zum Planen aus IPERKA beantworten.
+
+Um sich in Programmierung zu vertiefen, arbeite ich mit Robin an einen Projekt. Unsere Projekt ist, HangMan Spiel in Console zu programmieren. Um zusammen zu arbeiten, haben wir als Anfang fragen zum Arbeit gelöst. Nun haben wir ein Repository auf Github, zu dem wir beide den Zugriff haben. Wir haben auch herausgefunden, dass wir gleichzeitg in Visual Studio mit Live Shar arbeiten können. Am Ende haben wir uns über das Spiel selbst überleget und nun haben wir Ideen, was muss der Projekt Inhalten. (83)
+
+- [ ] Ein Folder für Hangman Version auf Github erstellen
+
+- [ ] Eingabe von Benutzer prüfen, sodass nur einzige Buchstaben eingegeben können
+
+- [ ] TestWord erstellen - Benutzereingabe mit "TestWord" Buchstaben prüfen
+
+- [ ] Eingabe von Benutzer erweitern, indem es darf nur eine Buchstabe gleichzeitig gezeigt sein
+  
+  | Vorbereitung               | Eingabe   | Ausgabe                                               | Erfüllt |
+  | -------------------------- | --------- | ----------------------------------------------------- | ------- |
+  | unseres Programm gestartet | b(la bla) | "b"" wird in console gezeigt, rest wird nicht gezeigt |         |

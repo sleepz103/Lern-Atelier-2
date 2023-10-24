@@ -14,5 +14,5 @@ Als Einstieg Projekt mache ich ein Hangman-Spiel in die Konsole. Dafür informie
 ## Arbeitspakete für 24.10.2023
 
 - [x] Projektablage in Github erstellen, damit wir es miteinander teilen können.
-- [ ] An gleiechen Code mit Robin Mueller arbeiten.
+- [x] An gleiechen Code mit Robin Mueller arbeiten.
 - [ ] Paar Fragen zum Planen aus IPERKA beantworten.

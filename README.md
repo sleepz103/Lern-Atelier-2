@@ -19,7 +19,7 @@ Als Einstieg Projekt mache ich ein Hangman-Spiel in die Konsole. Dafür informie
 
 Um sich in Programmierung zu vertiefen, arbeite ich mit Robin an einen Projekt. Unsere Projekt ist, HangMan Spiel in Console zu programmieren. Um zusammen zu arbeiten, haben wir als Anfang fragen zum Arbeit gelöst. Nun haben wir ein Repository auf Github, zu dem wir beide den Zugriff haben. Wir haben auch herausgefunden, dass wir gleichzeitg in Visual Studio mit Live Shar arbeiten können. Am Ende haben wir uns über das Spiel selbst überleget und nun haben wir Ideen, was muss der Projekt Inhalten. (83)
 
-- [ ] Ein Folder für Hangman Version auf Github erstellen
+- [x] Ein Folder für Hangman Version auf Github erstellen
 
 - [x] Eingabe von Benutzer prüfen, sodass nur einzige Buchstaben eingegeben können
 

@@ -25,8 +25,14 @@ Um sich in Programmierung zu vertiefen, arbeite ich mit Robin an einen Projekt. 
 
 - [x] TestWord erstellen - Benutzereingabe mit "TestWord" Buchstaben prüfen
 
-- [ ] Eingabe von Benutzer erweitern, indem es darf nur eine Buchstabe gleichzeitig gezeigt sein
+- [x] Eingabe von Benutzer erweitern, indem es darf nur eine Buchstabe gleichzeitig gezeigt sein
   
   | Vorbereitung               | Eingabe   | Ausgabe                                               | Erfüllt |
   | -------------------------- | --------- | ----------------------------------------------------- | ------- |
-  | unseres Programm gestartet | b(la bla) | "b"" wird in console gezeigt, rest wird nicht gezeigt |         |
+  | unseres Programm gestartet | b(la bla) | "b"" wird in console gezeigt, rest wird nicht gezeigt | Halb    |
+
+Heute ist sehr viel passiert. Zusammen haben wir uns miteinander mit Arbeitspacketen geholfen und somit alle von denen erreicht. Das Programm ist noch nicht gestaltet, doch hat nun sehr viele Funktionen. Für unsere Projekte haben wir Foldern mit Versionen, für jedesmal, wenn wir grosse Änderungen tun. Sonst haben wir uns besorgt, damit am Ende alle Funktionen richtig funktionieren und das haben wir gut gelöst. Es mussen aber die Ausgaben schöner ausgegeben werden, deswegen ist das letzte Ziel nur halb erfüllt. (79)
+
+- [ ] 5 Testfälle für den Programm erstellen 
+- [ ] Falls alles gut läuft, Programm gestalten, indem die frühere Prüfausgaben nicht mehr Ausgegeben werden
+- [ ] Testfälle durchführen, um zu schauen, ob ohne Prüfausgaben alles immer noch läuft und etwas nicht bei Zufall gelöscht wurde

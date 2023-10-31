@@ -23,7 +23,7 @@ Um sich in Programmierung zu vertiefen, arbeite ich mit Robin an einen Projekt. 
 
 - [x] Eingabe von Benutzer prüfen, sodass nur einzige Buchstaben eingegeben können
 
-- [ ] TestWord erstellen - Benutzereingabe mit "TestWord" Buchstaben prüfen
+- [x] TestWord erstellen - Benutzereingabe mit "TestWord" Buchstaben prüfen
 
 - [ ] Eingabe von Benutzer erweitern, indem es darf nur eine Buchstabe gleichzeitig gezeigt sein
   

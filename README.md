@@ -21,7 +21,7 @@ Um sich in Programmierung zu vertiefen, arbeite ich mit Robin an einen Projekt. 
 
 - [ ] Ein Folder für Hangman Version auf Github erstellen
 
-- [ ] Eingabe von Benutzer prüfen, sodass nur einzige Buchstaben eingegeben können
+- [x] Eingabe von Benutzer prüfen, sodass nur einzige Buchstaben eingegeben können
 
 - [ ] TestWord erstellen - Benutzereingabe mit "TestWord" Buchstaben prüfen
 

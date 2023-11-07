@@ -38,6 +38,7 @@ Heute ist sehr viel passiert. Zusammen haben wir uns miteinander mit Arbeitspack
 - [x] 5 ~~Testfälle ~~ Anforderungen für den Programm erstellen 
 - [ ] Falls alles gut läuft, Programm gestalten, indem die frühere Prüfausgaben nicht mehr Ausgegeben werden
 - [ ] Testfälle durchführen, um zu schauen, ob ohne Prüfausgaben alles immer noch läuft und etwas nicht bei Zufall gelöscht wurde
+
 Heute ist unsere Arbeit vorwärts gekommen, obwohl nicht alles gelöst würde. Obwohl die Richtige Eingabe die Ausgabe wurde als falsch bezeichnet. Wir haben uns damit ein Zeit beschäftigt, bis der Robin eine Zeile Code addiert hat und hat alles wieder funktioniert. Danke Robin. Sonst gab es auch schweirigkeit mit Github, da wir verwirrt sind, wie man aus Github ganze Foldern herunterladet. Das konnten wir mit Github Desktop lösen. Diese zwei Sachen waren wichtig, damit wir weiter kommen können, und als es erledigt würde, habe ich Anforderungsanalyse erstellt. Das ist wegen der Vorlage schnell gegangen und habe mit Robin geteilt. (99)
 
 ## Arbeitspakete für 14.11.2023

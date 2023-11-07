@@ -42,4 +42,6 @@ Heute ist unsere Arbeit vorwärts gekommen, obwohl nicht alles gelöst würde. O
 
 - [ ] Ein Array erstellen, der so Lange wie das versteckte Wort ist und mit unterstrichen gefüllt
 
+- [ ] Mit Robin programmieren, dass der Benutzer informiert wird, dass der Gewonnen hat
+
 - [ ] Tesfälle durführen und Testbericht schreiben

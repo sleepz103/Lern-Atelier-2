@@ -50,3 +50,7 @@ Heute ist unsere Arbeit vorwärts gekommen, obwohl nicht alles gelöst würde. O
 - [ ] Mit Robin programmieren, dass der Benutzer informiert wird, dass der Gewonnen hat
 
 - [ ] Tesfälle durführen und Testbericht schreiben
+
+
+
++ ison

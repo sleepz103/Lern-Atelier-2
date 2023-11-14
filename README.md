@@ -43,10 +43,26 @@ Heute ist unsere Arbeit vorwärts gekommen, obwohl nicht alles gelöst würde. O
 
 ## Arbeitspakete für 14.11.2023
 
-- [ ] Prüfausgaben nicht mehr Ausgeben
+- [x] Prüfausgaben nicht mehr Ausgeben
 
 - [x] Ein Array erstellen, der so Lange wie das versteckte Wort ist und mit unterstrichen gefüllt
 
-- [ ] Mit Robin programmieren, dass der Benutzer informiert wird, dass der Gewonnen hat
+- [ ] Mit Robin programmieren, dass der Benutzer informiert wird, dass er Gewonnen hat
 
 - [ ] Tesfälle durführen und Testbericht schreiben
+
+
+
+Heute habe ich so viel wie möglich erfüllt. Nun werden die Ausgaben mehr Benutzerfreundlich. Man kann auch jetzt sehen, wie viele Buchstaben aus den geheimen Wort geratten sind dankt den Array mit unterstrichen. Es gibt aber schwierigkeiten mit Gewinn. Wir brauchten mehr Arrays und Variablen zu erstellen, und am Ende lauft das Programm immer noch nicht. Testfälle werden nach hinten geschoben, da wir müssen den Programm wieder zusammenbringen.
+
+
+
+## Arbeitspakete für 21.11.2023
+
+- [ ] Wir beheben den Fehler, indem wir charArray in string umwandeln
+
+- [ ] Diese Variable mit versteckten Wort vergleichen
+
+- [ ] Enter-Eingabe fehler beheben, in dem ich eine Ausnahme erstellen
+
+

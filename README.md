@@ -59,10 +59,20 @@ Heute habe ich so viel wie möglich erfüllt. Nun werden die Ausgaben mehr Benut
 
 ## Arbeitspakete für 21.11.2023
 
-- [ ] Wir beheben den Fehler, indem wir charArray in string umwandeln
+- [x] Wir beheben den Fehler, indem wir charArray in string umwandeln
 
-- [ ] Diese Variable mit versteckten Wort vergleichen
+- [x] Diese Variable mit versteckten Wort vergleichen
 
-- [ ] Enter-Eingabe fehler beheben, in dem ich eine Ausnahme erstellen
+- [x] Enter-Eingabe fehler beheben, in dem ich eine Ausnahme erstellen
+
+In heutigen Distanzunterricht haben wir es geschafft, das man in unseren Spiel gewinnen kann. Das würde mit geniale Idee von Robin gelöst, da man das Wort mit versteckten Wort vergleicht, bis der Benutzer entweder früher verliert, oder das Passende Wort erratet.  Auch kann man null eingeben. Es hat länger gedauert, da eine Ausnahme funktionierte einfach nicht. Stattdesen haben wir das mit "if" input gleich null gelöst.  (66 Wörte)
+
+## Arbeitspakete für 21.11.2023
+
+- [ ] Ausgaben Putzen, damit der Spieler weniger unnötige ausgaben sieht
+
+- [ ] Schema für ein JSON datei, mit Wörter, die man erraten kann.
+
+- [ ] Wir arbeiten am Projekt von Herrn Schmid (genaues Arbeitspaket folgt am Freitag)
 
 

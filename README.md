@@ -73,6 +73,6 @@ In heutigen Distanzunterricht haben wir es geschafft, das man in unseren Spiel g
 
 - [ ] Schema für ein JSON datei, mit Wörter, die man erraten kann.
 
-- [ ] Wir arbeiten am Projekt von Herrn Schmid (genaues Arbeitspaket folgt am Freitag)
+- [ ] Für Programmier Projekt, erstelle ich in JSON eine Datenstruktur, die Buchungsätze und Lösung beinhaltet, aber auch nummeriert ist. Somit könnte man einzelne Buchungsätzte genau nutzen. 
 
 

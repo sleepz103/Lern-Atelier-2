@@ -69,7 +69,7 @@ In heutigen Distanzunterricht haben wir es geschafft, das man in unseren Spiel g
 
 ## Arbeitspakete für 21.11.2023
 
-- [ ] Ausgaben Putzen, damit der Spieler weniger unnötige ausgaben sieht
+- [x] Ausgaben Putzen, damit der Spieler weniger unnötige ausgaben sieht
 
 - [ ] Schema für ein JSON datei, mit Wörter, die man erraten kann.
 

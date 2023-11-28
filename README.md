@@ -76,3 +76,15 @@ In heutigen Distanzunterricht haben wir es geschafft, das man in unseren Spiel g
 - [ ] Für Programmier Projekt, erstelle ich in JSON eine Datenstruktur, die Buchungsätze und Lösung beinhaltet, aber auch nummeriert ist. Somit könnte man einzelne Buchungsätzte genau nutzen. 
 
 
+Heute habe ich schön Hangman geputzt. Nun ist das Spiel mehr Benutzerfreundlich. Das Spiel hat auch einen riesiegen Titel. Bei den Programmierprojekt kommen wir aber zu den Punkt, dass ich zu wenig Wissen über JSON habe und wir finden keine Lösung damit. Nach eine Überlegung wechseln wir zu CSV, da es für uns viel logsicher ist. Diese lange Überlegung über einen Kritischen Teilaufgabe sollen wir nächste mal vermeiden. (68)
+
+
+## Arbeitspakete für 5.11.2023
+
+- [ ] Alle Buchungsatze Anhand der überlegte Struktur in den CSV rein tun.
+ 
+- [ ] Programmieren, dass diese Datei eingelesen wird und mit kommas zu einen grossen string Array aufgeteilt wird.
+ 
+- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+
+

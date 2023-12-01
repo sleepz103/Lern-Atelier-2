@@ -81,10 +81,11 @@ Heute habe ich schön Hangman geputzt. Nun ist das Spiel mehr Benutzerfreundlich
 
 ## Arbeitspakete für 5.11.2023
 
-- [ ] Alle Buchungsatze Anhand der überlegte Struktur in den CSV rein tun.
+- [ ] Für Haldi Projekt erstelle ich ein Habenkonten.txt und Sollkonten.txt, die alle Konten beinhalten 
  
-- [ ] Programmieren, dass diese Datei eingelesen wird und mit kommas zu einen grossen string Array aufgeteilt wird.
+- [ ] Für Halid Projekt mach ich es so, dass die Dropdown Liste diese Konten aus Textdateien beinhalten
  
-- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+- [ ] Für Haldi Projekt, führe ich mindestens 3 Tesfälle aus
+
 
 

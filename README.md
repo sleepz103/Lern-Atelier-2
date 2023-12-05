@@ -83,7 +83,7 @@ Heute habe ich schön Hangman geputzt. Nun ist das Spiel mehr Benutzerfreundlich
 
 - [x] Für Haldi Projekt erstelle ich ein Habenkonten.txt und Sollkonten.txt, die alle Konten beinhalten 
  
-- [ ] Für Halid Projekt mach ich es so, dass die Dropdown Liste diese Konten aus Textdateien beinhalten
+- [X] Für Halid Projekt mach ich es so, dass die Dropdown Liste diese Konten aus Textdateien beinhalten
  
 - [ ] Für Haldi Projekt, führe ich mindestens 3 Tesfälle aus
 

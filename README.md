@@ -87,5 +87,9 @@ Heute habe ich schön Hangman geputzt. Nun ist das Spiel mehr Benutzerfreundlich
  
 - [ ] Für Haldi Projekt, führe ich mindestens 3 Tesfälle aus
 
+Seit heute hat unsere Projekt Konten und somit kann man mit den Programm schon üben. Unsere Arbeit geht bis jetzt sehr gut, bald können wir die Arbeit abschliessen. Am Ende haben wir uns für Statistiken fokusiert, doch noch nicht geschafft, dass es funktioniert. (43)
+
+
+## Arbeitspakete für 12.11.2023
 
 

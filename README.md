@@ -91,5 +91,8 @@ Seit heute hat unsere Projekt Konten und somit kann man mit den Programm schon �
 
 
 ## Arbeitspakete für 12.11.2023
+- [ ] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
+ 
+- [ ] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
 
-
+- [ ] 3 Tesfälle ausführen

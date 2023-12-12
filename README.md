@@ -91,8 +91,24 @@ Seit heute hat unsere Projekt Konten und somit kann man mit den Programm schon �
 
 
 ## Arbeitspakete für 12.11.2023
-- [ ] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
- 
+
+- [x] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
+
 - [ ] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
 
 - [ ] 3 Tesfälle ausführen
+
+
+
+Heute haben wir uns flessig mit Dokumentation beschäftigt. Das war das wichtigste an dieses Lernperiode, da die Abgabe morgen stattfindet. Unsere Dokumentation hat vier Kapitel: Auftrag, Umsetzung, Anleitung und Schlussfolgerung erstellt. Ich habe auch gesorgt, dass die Metainformationen drin sind und Formal stimmen. Die Präsentation können wir nächstes mal erstellen. (50)
+
+
+
+## Arbeitspakete für 19.11.2023
+
+- [ ] Planen, was in Präsentastion vorkommen soll
+
+- [ ] Zusammen mit Robin die Präsentation gestalten
+
+- [ ] Sich für die Präsentation vorbereiten
+

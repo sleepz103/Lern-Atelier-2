@@ -92,9 +92,9 @@ Seit heute hat unsere Projekt Konten und somit kann man mit den Programm schon �
 
 ## Arbeitspakete f체r 12.11.2023
 
-- [x] Szymon und ich erstellen die Pr채sentation zu unserem Projekt von Haldi.
+- [ ] Szymon und ich erstellen die Pr채sentation zu unserem Projekt von Haldi.
 
-- [ ] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
+- [x] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
 
 - [ ] 3 Tesf채lle ausf체hren
 

@@ -106,9 +106,14 @@ Heute haben wir uns flessig mit Dokumentation beschäftigt. Das war das wichtigs
 
 ## Arbeitspakete für 19.11.2023
 
-- [ ] Planen, was in Präsentastion vorkommen soll
+- [x] Planen, was in Präsentastion vorkommen soll
 
-- [ ] Zusammen mit Robin die Präsentation gestalten
+- [x] Zusammen mit Robin die Präsentation gestalten
 
-- [ ] Sich für die Präsentation vorbereiten
+- [x] Sich für die Präsentation vorbereiten
+
+
+
+ Auf heutigen Lernatelier würde alles einiger massen erfüllt. Ziel war vorallem, sich auf Donnerstag vorbereiten. Wir werden unser Programm präsentieren. Ich habe kurz Ideen gesammelt. Und danach gestalteten wir die Folien. Am Ende übelgten wir uns noch kurz und schnell, was wir noch während Präsentation sagen möchten. Quantitativ ging das heute gut. (52)
+
 

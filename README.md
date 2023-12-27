@@ -118,7 +118,7 @@ Heute haben wir uns flessig mit Dokumentation beschäftigt. Das war das wichtigs
  
 ## Reflexion
 
-Ich merke mir, dass mein Verbesserungsvorschlag von letztes Lernperiode ein Einfluss hat. Das heisst, wenn ich an etwas Arbeiten soll, ist es für mich sinnvoll, wenn ich mich informiere, an was ich überhaupt arbeite und was das Ziel eigentlich ist. 
+Ich merke mir, dass mein Verbesserungsvorschlag von letztes Lernperiode einen Einfluss hat. Das heisst, wenn ich an etwas Arbeiten soll, ist es für mich sinnvoll, wenn ich mich informiere, an was ich überhaupt arbeite und was das Ziel eigentlich ist. 
 
 Wenn ich an einem Problem komme, versuche ich es, mit einer schnellen Überlegung zu lösen. Das funktioniert aber nicht immer, und falls ich an schwierigere Probleme komme, kommt das Arbeit gar nicht vorwärts, bis ich mir Zeit für Überlegung nehme.
 

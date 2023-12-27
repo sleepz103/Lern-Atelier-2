@@ -115,5 +115,26 @@ Heute haben wir uns flessig mit Dokumentation beschäftigt. Das war das wichtigs
 
 
  Auf heutigen Lernatelier würde alles einiger massen erfüllt. Ziel war vorallem, sich auf Donnerstag vorbereiten. Wir werden unser Programm präsentieren. Ich habe kurz Ideen gesammelt. Und danach gestalteten wir die Folien. Am Ende übelgten wir uns noch kurz und schnell, was wir noch während Präsentation sagen möchten. Quantitativ ging das heute gut. (52)
+ 
+## Reflexion
+
+Ich merke mir, dass mein Verbesserungsvorschlag von letztes Lernperiode ein Einfluss hat. Das heisst, wenn ich an etwas Arbeiten soll, ist es für mich sinnvoll, wenn ich mich informiere, an was ich überhaupt arbeite und was das Ziel eigentlich ist. 
+
+Wenn ich an einem Problem komme, versuche ich es, mit einer schnellen Überlegung zu lösen. Das funktioniert aber nicht immer, und falls ich an schwierigere Probleme komme, kommt das Arbeit gar nicht vorwärts, bis ich mir Zeit für Überlegung nehme.
+
+Immer wenn ich arbeite, teile ich meine Arbeit so auf, sodass es Schlussaufgaben und Zusatzaufgaben gibt. Dann priorisiere ich die Schlussaufgaben, damit ich nächsten Mal ohne Probleme weiterarbeiten kann. 
+
+
+##### Mustern:
+
+Vorbereite ich meine Arbeit, geht das erfüllen des Ziel leichter.
+
+Konzentriere ich mich auf eine Lösung zu einen Problem, geht das Arbeit nicht vorwärts.
+
+Wenn es Schlussfunktionnen gibt, erfülle ich sie immer, damit die arbeit weitergehen kann.
+
+
+##### VBV:
+Komme ich an einem Problem, soll ich mir überlegen, warum es entsteht, was das Hauptziel war, und was für verschiedene Lösungen für dieses Problem gibt. 
 
 
